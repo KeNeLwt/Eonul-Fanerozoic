@@ -1,0 +1,19 @@
+- Titlu mijloc sus a paginii
+- Bara de activitati
+- Buton dreapta jos care te duce la inceputul paginii
+- Impartit in ... sectiuni
+- Buton stanga sus catre pagina principala
+- Buton catre pagina anterioara la inceputul paginii
+
+Prima sectiune:
+- O introducere cu informatii generale ale erei
+- Poze reprezentative erei
+- Un slideshow de-a lungul paginii cu toate cele 3 perioade geologice ale erei
+
+A doua sectiune:
+- Informatii generale despre toate cele 2 perioade
+- Animale care au trait in aceste perioade (cele mai interesante / preferatele mele)
+
+A treia sectiune:
+- Ascensiunea mamiferelor
+- Aparitia oamenilor

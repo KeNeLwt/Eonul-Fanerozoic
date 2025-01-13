@@ -1,0 +1,20 @@
+- Titlu mijloc sus a paginii
+- Bara de activitati
+- Buton dreapta jos care te duce la inceputul paginii
+- Impartit in 3 sectiuni
+- Buton catre pagina urmatoare la finalul paginii
+- Buton catre pagina anterioara la inceputul paginii
+- Buton stanga sus catre pagina principala
+
+Prima sectiune:
+- O introducere cu informatii generale ale erei
+- Poze reprezentative erei
+- Un slideshow de-a lungul paginii cu toate cele 6 perioade geologice ale erei
+
+A doua sectiune:
+- Informatii generale despre toate cele 6 perioade
+- Animale care au trait in aceste perioade (cele mai interesante / preferatele mele)
+
+A treia sectiune:
+- Extinctia permiana
+- Consecintele extinctiei

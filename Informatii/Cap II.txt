@@ -1,0 +1,55 @@
+- Titlu mijloc sus a paginii
+- Bara de activitati
+- Buton dreapta jos care te duce la inceputul paginii
+- Impartit in 3 sectiuni
+- Buton catre pagina urmatoare la finalul paginii
+- Buton stanga sus catre pagina principala
+- Buton catre pagina anterioara la inceputul paginii
+
+Prima sectiune:
+- O introducere cu informatii generale ale erei
+- Poze reprezentative erei
+- Un slideshow de-a lungul paginii cu toate cele 3 perioade geologice ale erei
+
+A doua sectiune:
+- Triassicul
+- Juraassicul
+- Cretacicul
+- Animale care au trait in aceste perioade (cele mai interesante / preferatele mele)
+
+A treia sectiune:
+- Extinctia, sfarsitul erei dinozaurilor
+- Consecintele extinctiei
+
+Primele animale terestre şi-au făcut apariţia pentru prima dată spre finalul Permianului, acestea diversificându-se în Mesozoic, 
+deseori numit și ca "Era dinozaurilor". Pe de-a lungul acestei perioade trăiau atât reptile şi proto-mamifere, cât şi Dinozauri, aceştia 
+domninând fiecare ecosistem în care se aflau, plantele predominante acestei vremi fiind coniferele.
+
+Triassicul reprezintă prima perioadă geologică a Mesozoiculio, acesta reprezentând o perioadă de recuperare a vieţii după extincţia Permiană.
+Ecosistemele terestre au început încet să fie stăpânite de dinozaurii timpurii, oacenele dând naştere primelor reptile capabile să respire sub
+apă, precum Ichtyosaurii şi Plesiosaurii, care vor domina mările Mesozoicului. Tot în acest timp, au apărut şi primele animale vertebrate
+capabile să zboare, aceştia fiind rude îndepartate ale dinozaurilor, Pterosaurii. Climatele predominante acestei perioade fiind mediile deşertice
+		
+Jurassicul este marcat de evoluţia rapidă a dinozaurilor, ecosistemele fiind dominate de giganţi, atât erbivori, cât și carnivori precum 
+Brachiosaurus şi Allosaurus. Primele păsări şi-au facut apariţia tot în această perioadă, cum ar fi Archaeopteryx. Pterozaurii erau în continuare 
+prezenţi în aer, fiind necontestaţi de alte specii iar oceanele fiind populate şi ele de prădători masivi, precum Plesiosaurii.
+
+Cretacicul, ultima perioadă a mezozoicului, a fost marcat de diversificarea plantelor cu flori și a insectelor polenizatoare. Fiecare ecosistem al acestei perioade era stăpânit în întregime de dinozauri, care nu puteau fi numiți nimic altceva decât giganți. Cretacicul a dat naștere unora dintre cei mai cuoscuți și bine studiate specii de dinozauri, precum Tyrannosaurs rex, Triceratops și Velociraptor. În oceane, Mosasaurii chemau apele lumii casa lor, aceștis fiind în realitate mai apropiate de reptile decât de dinozauri. Sfârșitul Cretacicului este cauzat de impactul unui asteroid cu Pământul, care a dus la extincția totală a dinozaurilor non-aviatici.
+
+Încheierea bruscă a Cretacicului acum 66 de milioane de ani, cauzatî de impactul unui asteroid uriaș (în prezent, craterul Chicxulub din Mexic) a dus la o concluzie "Erei dinozaurilor" cu o extincție în masa, omorând 80% din viața de pe Pământ. Evenimentul a dus la eradicarea tuturor dinozaurilor non-aviari, a multor reptile marine, a pterozaurilor și a altor specii, deschizând calea pentru ascensiunea mamiferelor în era Cenozoică.
+
+1. Ascensiunea mamiferelor
+După dispariția dinozaurilor, mamiferele, care nu erau mai mare decat o pisică, au început a ocupa nișele ecologice lăsate libere după extincție. Specii precum creodonții (prădători mari) și ierbivore primitive, precum tapirii, au apărut în primele etape ale acestei perioade. Pădurile tropicale s-au extins, oferind un habitat diversificat mamiferelor, astfel deschizândule și mai multe oportunități de diversificare.
+
+2. Paleogen (66-23 milioane de ani în urmă)
+Periada Paleogenă a fost caracterizată de apariția primelor balene în oceane și a păsărilor terestre gigantice, precum Basilosaurus și Phorusrhacidae, popular cunoscute și ca păsările teroare, fiind cei mai mari carnivori ai timpului. Acesta a reprezentat singura dată, după dispariția dinozaurilor, unde păsările (descendenți ai dinozaurilor) au devenit prădătorul de vârf într-o lume dominată de mamifere. Mamiferele placentare (una din cele 3 diviziuni ale mamiferelor) au început să se diversifice, ducând la dezvoltarea unor ecosisteme terestre complexe.
+
+3. Neogen (23-2,6 milioane de ani în urmă)
+În timul perioadei Neogene clima a început să se răcească, dând naștere spre finalul acestei perioade "Erei glaciare", în ciuda faptului că la început perioade savanele s-au extins. Strămoșii elefanților, girafelor și cailor moderni au evoluat, cei mai cunoscuți dintre aceștia fiind tigrii cu dinți-sabie și mamuții, fiind reprezentanți notabili ai megafaunei. În această perioadă, hominizii au început să apară, dând naștere "Erei oamenilor".
+
+4. Apariția oamenilor (2,6 milioane de ani în urmă - prezent)
+Evoluția omului modern a început în Africa, cu Homo erectus și Homo neanderthalensis. Homo sapiens s-a răspândit pe tot globul. Fauna modernă s-a dezvoltat, iar impactul uman asupra ecosistemelor a devenit semnificativ.
+
+
+Apariția oamenilor a avut loc acum aproximativ 2,6 milioane de ani, odată cu primele specii din genul Homo, precum Homo habilis. Acești strămoși timpurii au început să folosească unelte primitive, marcând începutul evoluției culturale. De-a lungul timpului, oamenii au dezvoltat capacități cognitive superioare, limbajul și societăți complexe, culminând cu apariția Homo sapiens acum circa 300.000 de ani. Adaptabilitatea și inovația au permis speciei noastre să supraviețuiască și să domine diverse medii, modelând lumea de azi.
+

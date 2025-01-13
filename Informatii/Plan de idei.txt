@@ -1,0 +1,25 @@
+1. Pagina principala - butoane catre cele 3 ere:
+2. Capitolul I - Era paleozoica
+3. Capitolul II - Era mezozoica
+4. Capitolul III - Era cenozoica
+
+Cap I - Era paleozoica :
+- Cele 6 mari perioade ale acestuia;
+- Cele mai importante evenimente ale timpului;
+- Animale spacifice timpului (cele mai interesante/preferatele mele);
+
+Cap II - Era mezozoica:
+- Triasicul : animale specifice, definitie generala a timpului (cele mai interesante/preferatele mele);
+- Jurassicul : animale specifice, definitie generala a timpului (cele mai interesante/preferatele mele);
+- Cretacicul : animale specifice, definitie generala a timpului (cele mai interesante/preferatele mele);
+- Extinctia
+
+Cap III - Era cenozoica :
+- Cele 2 perioade ale acestuia;
+- Ascensiunea mamiferelor;
+- Aparitia Oamenilor;
+
+Idei:
+-Sa subliniey cuvintele complicate, care au nev de o definitie, pe care poti apasa sa te trimita la definitia de la finalul paginii, cuvantul
+devenind mai mare(cel din finalul pagnii) sa il poti vedea mai usor unde se afla
+-La finalul paginilor cu informatii sa adaug un dictionar cu definitia cuvintelor complicate de pe pagina respectiva

@@ -1,0 +1,12 @@
+- Butoane catre cele 3 ere;
+- Un slideshow (o bara care se misca pe toata lungimea ecranului cu poze din toate aceste ere);
+- Butoanele sa fie imagini mari iar langa ele definitia pe scurt la ce se poate regasi in fiecare capitol;
+- Un buton catre homepage;
+- Un buton care te aduce inapoi la inceputul paginii;
+- Un logo pt fiecare capitol reprezentativ erei specifice;
+- Butoanele sa fie popup/sa se ridice in sus cand tii mouseul peste ele;
+- Videouri de pe yt in diferite capitole, explicative/informative;
+- Un loc in care poti vizualia noi stiri relatate de dinozauri/paleontologie cu linkuri catre pagina specifica;
+- O bara de activitati catre fiecare pagina, acestea fiind ele insasi butoane care se deschid cu mai multe butoane catre
+alte parti ale siteului;
+- Un search button?;

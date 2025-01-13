@@ -1,0 +1,125 @@
+<html>
+
+  <head>
+    <meta charset="UTF-8">
+    <title>Eonul Fanerozoic</title>
+    <link rel="icon" type="image/png" href="Imagini/favicon.png"/>
+    <link rel="stylesheet" href="index_style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=Lora:ital,wght@0,400..700;1,400..700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+    </style>   
+    <script defer src="Js/bghov.js"></script>
+    <script defer src="Js/meniu.js"></script>
+    <script defer src="Js/submeniu.js"></script>
+    <script defer src="slideshow.js"></script>
+  </head>
+
+  <body>
+    <section id="blog">
+
+      <div class="blog-heading">
+        <h1 class="titlu">Eonul Fanerozoic</h1>
+      </div>
+
+      <div class="blog-container">
+
+        <div class="blog-box">
+          <div class="blog-img">
+            <img src="Imagini/paleozoic (1).jpg" alt="Blog">
+          </div>
+          <div class="blog-text">
+            <a href="Paleozoic.html" target="_self" title="Era Paleozoică" class="blog-title"><div class="bg-hov-1">Era Paleozoică</div></a>
+            <p>Era Paleozoică, este o perioadă geologică caracterizată de diversificarea vieţii marine, colonizarea
+            uscatului de către plante și animale și formarea supercontinentului Pangeea</p>
+          </div>
+        </div>
+
+        <div class="blog-box">
+          <div class="blog-img">
+            <img src="Imagini/mezozoic (1).jpg" alt="Blog">
+          </div>
+          <div class="blog-text">
+            <a href="Mezozoic.html" target="_self" title="Era Mezozoică" class="blog-title"><div class="bg-hov-2">Era Mezozoică</div></a>
+            <p>Era Mezozoică, cunoscută și ca „Era Dinozaurilor,” este o perioadă geologică caracterizată de apariția 
+              primelor reptile, păsări și mamifere, și divizarea continentelor din supercontinentul Pangeea.</p>
+          </div>
+        </div>
+
+        <div class="blog-box">
+          <div class="blog-img">
+            <img src="Imagini/cenozoic (1).jpg" alt="Blog">
+          </div>
+          <div class="blog-text">
+            <a href="Cenozoic.html" target="_self" tile="Era Cenozoică" class="blog-title"><div class="bg-hov-3">Cenozoică</div></a>
+            <p>Era Cenozoică, cunoscută și ca "Era mamiferelor", marcată de evoluția mamiferelor, păsărilor și a 
+              plantelor cu flori, precum și formarea continentelor actuale</p>
+          </div>
+
+        </div>
+
+      </div>
+
+      <div>
+        <div class="menu-toggle" onclick="toggleVerticalNav()"><div>☰</div></div>
+        <nav id="vertical-nav" onmouseleave="hideVerticalNav()">
+          <ul class="nav-links">
+            <li>
+              <a href="Index.html" target="_self" title="Pagina principală">Pagina principală</a>
+            </li>
+            <li class="section-item">
+              <div class="section-header">
+                <a href="Paleozoic.html" target="_self" title="Era Paleozoică">Era Paleozoică</a>
+                <button class="toggle-submenu" onclick="toggleSubMenu(this)">+</button>
+              </div>
+              <ul class="sub-menu">
+                <li><a href="Paleozoic.html#Cambrian" target="_self" title="Era Paleozoică">Cambrian</a></li>
+                <li><a href="Paleozoic.html#Ordovician" target="_self" title="Era Paleozoică">Ordovician</a></li>
+                <li><a href="Paleozoic.html#Silurian" target="_self" title="Era Paleozoică">Silurian</a></li>
+                <li><a href="Paleozoic.html#Denovian" target="_self" title="Era Paleozoică">Denovian</a></li>
+                <li><a href="Paleozoic.html#Carbonifer" target="_self" title="Era Paleozoică">Carbonifer</a></li>
+                <li><a href="Paleozoic.html#Permian" target="_self" title="Era Paleozoică">Permian</a></li>
+              </ul>
+              <li class="section-item">
+                <div class="section-header">
+                  <a href="Mezozoic.html" target="_self" title="Era Mezozoică">Era Mezozoică</a>
+                  <button class="toggle-submenu" onclick="toggleSubMenu(this)">+</button>
+                </div>
+              <ul class="sub-menu">
+                <li><a href="Mezozoic.html#Animale-terestre" target="_self" title="Era Mezozoică">Primele animale terestre</a></li>
+                <li><a href="Mezozoic.html#Triassic" target="_self" title="Era Mezozoică">Triassic</a></li>
+                <li><a href="Mezozoic.html#Jurassic" target="_self" title="Era Mezozoică">Jurassic</a></li>
+                <li><a href="Mezozoic.html#Cretacic" target="_self" title="Era Mezozoică">Cretacic</a></li>
+                <li><a href="Mezozoic.html#Extinctia-Mezozoic" target="_self" title="Era Mezozoică">Extincția</a></li>
+              </ul>
+            </li>
+            <li class="section-item">
+              <div class="section-header">
+                <a href="Cenozoic.html" target="_self" title="Era Cenozoică">Era Cenozoică</a>
+                <button class="toggle-submenu" onclick="toggleSubMenu(this)">+</button>
+              </div>
+              <ul class="sub-menu">
+                <li><a href="Cenozoic.html#Mamifere" target="_self" title="Era Cenozoică">Ascensiunea mamiferelor</a></li>
+                <li><a href="Cenozoic.html#Paleogen" target="_self" title="Era Cenozoică">Paleogen</a></li>
+                <li><a href="Cenozoic.html#Neogen" target="_self" title="Era Cenozoică">Neogen</a></li>
+                <li><a href="Cenozoic.html#Oameni" target="_self" title="Era Cenozoică">Apariţia oamenilor</a></li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+        
+      </div>
+
+    </section>
+
+    <footer>
+      <div class="top">
+        <a href="#"><img src="Imagini/up-arrow.png"></a>
+      </div>
+      <div class="home">
+        <a href="Index.html" target="_self" title="Home"><img src="Imagini/logo.png"></a>
+      </div>
+    </footer>
+
+  </body>
+</html>
